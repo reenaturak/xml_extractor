@@ -1,0 +1,8 @@
+pyproject.toml
+xml_extractor.egg-info/PKG-INFO
+xml_extractor.egg-info/SOURCES.txt
+xml_extractor.egg-info/dependency_links.txt
+xml_extractor.egg-info/requires.txt
+xml_extractor.egg-info/top_level.txt
+xml_package/__init__.py
+xml_package/extractor.py

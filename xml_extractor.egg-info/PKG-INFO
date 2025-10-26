@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: xml_extractor
+Version: 0.1.0
+Summary: UV-enabled Python project for extracting doc-numbers from XML or ZIP files
+Author-email: Reena Turak <reenaturak@gmail.com>
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0; extra == "dev"
